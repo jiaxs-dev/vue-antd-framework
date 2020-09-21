@@ -12,3 +12,5 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+/vue-antd-framework.iml
+/yarn.lock
